@@ -1,0 +1,5 @@
+Hello, this is a line of text.
+Here is another line.
+Line 3
+Line 4
+Appending a new line at the end.
