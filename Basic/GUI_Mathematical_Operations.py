@@ -4,7 +4,7 @@
 --    Author    :   			YOUSSEF ADEL YOUSSEF
 
 -- Description  :   Create a graphical application in Python Tkinter that asks
-                    the user to enter two integers and displays their sum.
+                    the user to enter two integers and displays their sum depending on the operation chosen.
 ================================================================================'''
 
 # Import the tkinter library and its ttk module for themed widgets
