@@ -2,7 +2,7 @@
 '''================================================================================
 --    Author    :   			YOUSSEF ADEL YOUSSEF
 
--- Description  :   Write application to get your public IP.
+-- Description  :   Write application to get information about you location.
 ================================================================================'''
 
 import requests
